@@ -1,0 +1,8 @@
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\bin\Debug\ViosagmirTestConsoleApp_M2.exe.config
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\bin\Debug\ViosagmirTestConsoleApp_M2.exe
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\bin\Debug\ViosagmirTestConsoleApp_M2.pdb
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\obj\Debug\ViosagmirTestConsoleApp_M2.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\obj\Debug\ViosagmirTestConsoleApp_M2.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\obj\Debug\ViosagmirTestConsoleApp_M2.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\obj\Debug\ViosagmirTestConsoleApp_M2.exe
+C:\Users\viosagmir\source\repos\ViosagmirTestConsoleApp_M2\ViosagmirTestConsoleApp_M2\obj\Debug\ViosagmirTestConsoleApp_M2.pdb
